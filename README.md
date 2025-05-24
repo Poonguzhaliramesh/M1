@@ -25,7 +25,7 @@ Write a C program to read 3 characters one by one and print the characters in a 
      }
 
 ## OUTPUT:
-![image](https://github.com/user-attachments/assets/49a2e345-7ba2-490c-b148-133a47b3d50d)
+![image](https://github.com/user-attachments/assets/4e2563d8-135c-4d4d-9f37-8a6964316151)
 
 
 
